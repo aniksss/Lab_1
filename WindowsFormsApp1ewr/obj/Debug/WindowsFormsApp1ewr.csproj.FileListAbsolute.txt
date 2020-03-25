@@ -1,0 +1,9 @@
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\bin\Debug\WindowsFormsApp1ewr.exe.config
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\bin\Debug\WindowsFormsApp1ewr.exe
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\bin\Debug\WindowsFormsApp1ewr.pdb
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.csprojAssemblyReference.cache
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.Form1.resources
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.Properties.Resources.resources
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.csproj.GenerateResource.cache
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.exe
+C:\Users\Argiziont\source\repos\WindowsFormsApp1ewr\WindowsFormsApp1ewr\obj\Debug\WindowsFormsApp1ewr.pdb
